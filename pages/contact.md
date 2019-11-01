@@ -3,4 +3,6 @@ layout: misc
 title: Contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+Algorave India is a loosely formed collective with a few permanent members like Abhinay Khoparzi, Dhanya Pilo and Akash Sharma, as well as collaborators like CC Sante, Music Tech India group and guest artists who come on board on depending on the city we do our events in.
+
+If you are have an idea for a performance, collaboration, or any questions and suggestions, feel free to connect with us on our [facebook page](https://fb.me/algoraveindia) or [tweet at Khoparzi](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=khoparzi).

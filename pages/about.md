@@ -3,4 +3,6 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Algorave, short for algorithmic rave, is a performance format and underground movement that revolves around the practice of live-coding, that is, writing and editing code live in front of an audience to create music and visuals. Emerging out of the demo scene of the 1980s and 1990s—where people would swap demos of graphics and music software—live coding has been a medium for performing arts for almost three decades, but it was usually restricted to either the art world or tech and trans-media events. Then, in 2012, Sheffield-based musicians Alex McLean and Nick Collins decided to take live coding into the club environment, organizing live coding jams at local music venues under the algorave banner.
+
+In May of 2018, filmmaker/vj/mother-of-various-subcultures-in-mumbai [Dhanya Pilo](http://dhanyapilo.com/) and [Abhinay Khoparzi](https://khoparzi.com) co-instigated Algorave India, a collective of artists, musicians, and visualists intent on promoting programming as performance art through events called Algoraves.
