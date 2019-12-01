@@ -7,4 +7,4 @@ Algorave, short for algorithmic rave, is a performance format and underground mo
 
 In May of 2018, [Abhinay Khoparzi](https://khoparzi.com) and filmmaker/vj/mother-of-various-subcultures-in-mumbai [Dhanya Pilo](http://dhanyapilo.com/) co-instigated Algorave India, a collective of artists, musicians, and visualists intent on promoting programming as performance art through events called Algoraves.
 
-Algorave India is a loosely formed collective with a few permanent members like Khoparzi, Dhanya and [Akash Sharma](https://sound.codes), as well as collaborators like [CC Sante](http://ccsante.github.io/), [Music Tech India](http://musictechcommunity.org/) group and guest artists who come on board on depending on the city we do our events in.
+Algorave India is a loosely formed collective with a few permanent members like Khoparzi, Dhanya and [Akash Sharma](https://sound.codes), and Joshua "Tig3rbabu" Thomas as well as collaborators like [CC Sante](http://ccsante.github.io/), [Music Tech India](http://musictechcommunity.org/) group and guest artists who come on board on depending on the city we do our events in.
