@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Livecoding workshop with Hydra"
+categories: events
+date: "2019-03-15 18:00:00 +0530"
+image: posters/Bangalore-Mar2019.jpg
+---
+
+Audio visual artist Abhinay Khoparzi (http://khoparzi.com) will demonstrate techniques for live coding visuals with Hydra (https://github.com/ojack/hydra) which is an open-source web-browser based tool for performing generative visuals using JavaScript. Abhinay is one of the co-instigators of Algorave India (https://www.facebook.com/algoraveindia/), a collective of Artists, Musicians, and Visualists intent on promoting programming as performance art through events called Algoraves.
+
+WHAT: Live Coding Visuals using HYDRA by Abhinay Khoparzi
+WHEN: FRIDAY 22nd MARCH, 2019
+TIME: 7pm - 9:30pm
+WHERE: Thought Factory (Axis Bank Innovation Space), 2nd Floor, Tower D, Diamond District, Domlur (https://goo.gl/maps/JEawCmkRF2k)
+COST: Pay What You Want! (Suggested Donation: INR 100 per person)
+REGISTER via https://imojo.in/26kmgt6 to reserve your spot!
+
+An Algorave can be considered a celebration of the purest representation of electronic music, whether its to make the audiences brain dance or their body is besides the point. Most electronic music is made by machines and those machines run on an algorithm. The only thing different that performers at Algoraves do is open the hood of that machine and show the audience how things are being manipulated. However the performers are not bound by genres or stylistic choices. They are free to make to make hindustaani classical with it or, jazz, or maybe something that sounds like a post apocalyptic party organised by robots after they have taken over humanity for slave labour. It’s an all inclusive event that does not align with biases towards gender, age, race, or nationality or sexual and religious orientations.
+
+Workshop Outline
+++ Brief introduction to Live Coding
+++ What is Hydra: A very basic introduction
+++ Simple generator functions:
+--> Oscillator function
+--> Shape function
+--> Different sources and renders
+++ Transformation functions
+++ Video Feedback techniques
+++ Audio Reactive visuals
+++ Integrating p5.js into Hydra
+
+Notes
+++ No need to have former programming or live coding experience to successfully take part in this workshop!
+++ Please bring your LAPTOP and CHARGER (any Mac, PC, Linux machine is fine) to take part in this workshop!
+++ Chrome and Firefox browsers are recommended; Safari and MS Edge may not work during the workshop
+++ Anybody over the age of 10 years is welcome to attend
+++ This is a "Pay What You Want" event; it is appreciated if you donate at least INR 100 per person if you are serious about attending!
+++ Any questions? Please contact Kavita Arora (Event Organizer) via <kklindor21@gmail.com>
+
+[Facebook Event Link](https://www.facebook.com/events/650854412018389/)

@@ -6,15 +6,21 @@ date: "2019-08-28 18:00:00 +0530"
 image: posters/Delhi-Sept2019.gif
 ---
 
-ALGORAVE WORKSHOP///  OPEN CALL.
-Live Coding Workshop VISUAL x AUDIO x TEXT
-Timings: 11am - 4 pm, Entry: Free
-Come with your laptop, and earphones/headphones
-OPEN FOR BEGINNERS & EXPERTS
+It's been about six months since we were in the capital with a workshop, it's time we get some performances together! We are so glad to announce that we have a very special event coming up in exactly two weeks in collaboration with Banana House in Chattarpur. This is a line up that we have been working towards for a while and are so proud to present.
 
-FAT FINGER MAYHEM LIVE JAM SESSION
-(OPEN GIG) Timings: 6 pm - 8 pm, Entry: Free
-Date: 12 May 2018, Saturday.
-Venue: Gallery MMB, Goethe-Institut / Max Mueller Bhavan, Kala Ghoda, Mumbai.
+SuperContinent:
+An intercontinental network music performance between musician, and researcher Shelly Knotts (UK) and Jessica Rodriguez (Canada) through a unique performance environment called Estuary. The artists will be on two different continents and perform their set through with an interconnect through magic of internet, web audio and live coding.
 
-[Facebook Event Link](https://www.facebook.com/groups/1550827825016506/)
+Sba0h0r0:
+sba0h0r0 was born in a small ____called ____ in ___. Throughout her life, sba0h0r0 has always been fascinated by ___ and how ___ ___. After completing her degrees in ___, ___ and ___, sba0h0r0 delved even more into her ___ practice of ___, which involved loss and regeneration of ___.  sba0h0r0 was selected as one of the ___ featured in ___ (___). sba0h0r0 lives and works in ___, surrounded by ___, ___ and her black raven called Abraxas.
+
+Febbymomma:
+Delhi's own Mohna Singh has been moving between visuals and djing some very funky music mixing disco and French house for the past few years, this gig presents her first steps in live coding practice.
+
+TimeBlur (algorithmic AV set):
+Creative entrepreneur, artist and designer Natasha Singh will be presenting an engaging AV set with the generative music and visuals tool SketchSound.
+
+Computational Momma:
+Lives a dual life as a real life momma and creative coder. This Algorave will see her frying up her computer while belting out algorithmic visuals.
+
+[Facebook Event Link](https://www.facebook.com/events/456564318328399/)

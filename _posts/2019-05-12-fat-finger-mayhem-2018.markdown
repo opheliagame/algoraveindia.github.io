@@ -3,7 +3,8 @@ layout: post
 title: "Fat Finger Mayhem - 2018"
 categories: events
 date: "2018-04-12 18:00:00 +0530"
-image: posters/ffm-2018.jpg
+image: posters/FFM-2018.jpg
+author: "Dhanya Pilo"
 ---
 
 ALGORAVE WORKSHOP///  OPEN CALL.

@@ -6,15 +6,12 @@ date: "2018-06-10 18:00:00 +0530"
 image: posters/Goa-June2018.jpg
 ---
 
-Livecoding Workshop.
-Live Coding Workshop VISUAL x AUDIO x TEXT
-Timings: 11am - 4 pm, Entry: Free
-Come with your laptop, and earphones/headphones
-OPEN FOR BEGINNERS & EXPERTS
+After the insane response we got last month from our event at Goethe-Insitut Max Mueller Bhavan in Mumbai we are now moving to Goa!
 
-FAT FINGER MAYHEM LIVE JAM SESSION
-(OPEN GIG) Timings: 6 pm - 8 pm, Entry: Free
-Date: 12 May 2018, Saturday.
-Venue: Gallery MMB, Goethe-Institut / Max Mueller Bhavan, Kala Ghoda, Mumbai.
+Yes! We are announcing Goa’s first Algorave India live coding workshop hosted by House #248. Musician and live-coding artist Abhinay Khoparzi will demonstrate the basics of the free web-browser based environment Gibber. Khoparzi will be teaching participants how make music with a simplified JavaScript like programming language and making audio reactive visuals that move to the music. No software installation is required as Gibber runs in the browser and only needs an internet connection and a fairly recent version of Chrome, or Firefox.
 
-[Facebook Event Link](https://www.facebook.com/groups/1550827825016506/)
+Fee: Rs. 300 per head
+No programming or music experience required
+Get Laptop + Headphones/earphones
+
+[Facebook Event Link](https://www.facebook.com/events/1204764722994213/)
