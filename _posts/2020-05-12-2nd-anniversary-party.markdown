@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Second Anniversary Party"
+title: "Algorave India: Second Anniversary Party"
 categories: events
 date: "2020-05-12 10:00:00 +0530"
-image: posters/second-anniversary-May-2020.jpg
+image: posters/anniversary-May-2020.jpg
 author: "Abhinay Khoparzi"
 ---
 
