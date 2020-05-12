@@ -3,7 +3,7 @@ layout: post
 title: "Second Anniversary Party"
 categories: events
 date: "2020-05-12 10:00:00 +0530"
-image: posters/2nd-anniversary-May-2020.jpg
+image: posters/second-anniversary-May-2020.jpg
 author: "Abhinay Khoparzi"
 ---
 
