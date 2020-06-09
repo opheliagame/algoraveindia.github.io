@@ -7,7 +7,7 @@ image: posters/Moondancing-9June2020.jpg
 author: "Abhinay Khoparzi"
 ---
 
-Next Tuesday, join us for a live streamed Algorave with a dramatically new lineup.
+Join us for a live streamed Algorave with a dramatically new lineup.
 
 [Illest Preacha](https://www.instagram.com/illestpreacha/) from Canada will be mixing up rap/poetry along with his livecoded music in sonic pi, and visuals in hydra
 
