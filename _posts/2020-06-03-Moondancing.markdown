@@ -20,6 +20,9 @@ Next Tuesday, join us for a live streamed Algorave with a dramatically new lineu
 This will be a live streamed event and will also broadcast at Mozilla UXR Hubs in VR enviroment designed by [Sound.Codes](https://instagram.com/sound.codes) and [Khoparzi](https://instagram.com/khoparzi)
 
 Watch it on [YouTube](http://youtube.com/eulerroom)
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/RkyYrmxiczQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Experience it in VR at [UXR Hubs](https://hubs.mozilla.com/QhEUcmn/excited-crazy-gathering)
 
-<iframe src="https://hubs.mozilla.com/QhEUcmn/excited-crazy-gathering/?embed_token=18948b55e97ba47e2877f3cd91d75b1d" style="width: 1024px; height: 768px;" allow="microphone; camera; vr; speaker;"></iframe>
+<iframe src="https://hubs.mozilla.com/QhEUcmn/excited-crazy-gathering/?embed_token=18948b55e97ba47e2877f3cd91d75b1d" style="width: 100%; height: 768px;" allow="microphone; camera; vr; speaker;"></iframe>
