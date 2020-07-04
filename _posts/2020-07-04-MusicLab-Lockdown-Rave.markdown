@@ -2,12 +2,12 @@
 layout: post
 title: "MusicLab 5: Lockdown Rave"
 categories: events
-date: "2020-07-04 22:00:00 +0530"
+date: "2020-07-04 21:00:00 +0530"
 image: posters/musiclab5-july2020.jpg
 author: "Abhinay Khoparzi"
 ---
 
-# MusicLab 5: Lockdown Rave 10th July 2020 
+# MusicLab 5: Lockdown Rave 10th July 2020
 
 The 5th edition of MusicLab is an algorave (algorithmic rave) featuring [Renick Bell](http://renickbell.net/) based in Japan, [Khoparzi](https://khoparzi.com) based in India, and researchers in Norway. Renick Bell and Khoparzi will improvise live-coded music on their computers while the audience dances. We will try to measure your movement using a new MusicLab mobile application that uses smartphones' accelerometers and gyroscopes. And if you agree to it the researchers will also ask questions about the experience of the concert.
 
