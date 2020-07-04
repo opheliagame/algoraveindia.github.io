@@ -4,7 +4,7 @@ title: "MusicLab 5: Lockdown Rave"
 categories: events
 date: "2020-07-04 21:00:00 +0530"
 image: posters/musiclab5-july2020.jpg
-author: "Abhinay Khoparzi"
+author: "Algorave India"
 ---
 
 # MusicLab 5: Lockdown Rave 10th July 2020
