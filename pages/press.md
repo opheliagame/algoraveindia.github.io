@@ -8,6 +8,8 @@ title: Press
 
 [ALGORAVE : WHEN CODING MEETS ELECTRONIC MUSIC](https://inditronic.in/featured/algorave/)
 
+[The Sound of Machines](https://www.sakaltimes.com/art-culture/sound-machine-38101)
+
 [Coded World - Episode 4: Future - Channel News Asia (Video Documentary)](https://www.channelnewsasia.com/news/video-on-demand/coded-world/future-11945306)
 
 [Algoraver starter pack - Livemint](https://www.livemint.com/mint-lounge/features/algoraver-starter-pack-1553936747789.html)
