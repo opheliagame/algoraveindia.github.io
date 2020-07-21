@@ -6,9 +6,9 @@ title: Press
 
 [Type and jive - Anjuly Mathai writing for the The Week](https://www.theweek.in/theweek/leisure/2020/04/04/type-and-jive.html)
 
-[ALGORAVE : WHEN CODING MEETS ELECTRONIC MUSIC](https://inditronic.in/featured/algorave/)
+[ALGORAVE : WHEN CODING MEETS ELECTRONIC MUSIC - Inditronic](https://inditronic.in/featured/algorave/)
 
-[The Sound of Machines](https://www.sakaltimes.com/art-culture/sound-machine-38101)
+[The Sound of Machines - Alisha Shinde writing for Sakal Times](https://www.sakaltimes.com/art-culture/sound-machine-38101)
 
 [Coded World - Episode 4: Future - Channel News Asia (Video Documentary)](https://www.channelnewsasia.com/news/video-on-demand/coded-world/future-11945306)
 
