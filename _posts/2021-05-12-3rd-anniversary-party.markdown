@@ -2,7 +2,7 @@
 layout: post
 title: "Algorave India: Third Anniversary Party"
 categories: events
-date: "2021-05-12 10:00:00 +0530"
+date: "2021-05-06 10:00:00 +0530"
 image: posters/third-anniversary-12May2021.jpg
 author: "Abhinay Khoparzi"
 ---
