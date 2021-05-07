@@ -19,7 +19,7 @@ Join us for a live streamed Algorave with a lineup of artists covering a range o
 
 [Pratyush](https://www.instagram.com/prtyshrmn)'s is going to bring us beats and bloops from the modular magic of VCV rack
 
-[BeatNyk](https://www.instagram.com/beatnyk  will conjure arcane musical structures in Orca
+[BeatNyk](https://www.instagram.com/beatnyk) will conjure arcane musical structures in Orca
 
 [Myles](https://www.instagram.com/aaronmylespereira) and his Max/MSP manipulation will bring down IDM from the heyday of the scene
 
