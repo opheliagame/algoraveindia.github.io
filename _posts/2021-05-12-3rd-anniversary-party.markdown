@@ -7,10 +7,6 @@ image: posters/third-anniversary-12May2021.jpg
 author: "Abhinay Khoparzi"
 ---
 
-Join us for a live streamed Algorave with a dramatically new lineup.
-
-[Illest Preacha](https://www.instagram.com/illestpreacha/)
-
 We have been away for too long and it's time to change that. Presenting the 3rd Anniversary Celebration of Algorave India's premier livecoding event Fat Finger Mayhem.
 
 Join us for a live streamed Algorave with a lineup of artists covering a range of computational techniques.
