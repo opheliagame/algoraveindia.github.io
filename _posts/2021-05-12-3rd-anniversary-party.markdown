@@ -15,7 +15,7 @@ Join us for a live streamed Algorave with a lineup of artists covering a range o
 
 [sandcobainer](https://www.instagram.com/sandcobainer.wav is going to show us how to stretch Foxdot patterns with machine learning algorithms that mutate and flutter with soothing chord changes
 
-[Seasidedrum](https://www.instagram.com/meerasundr) will make her live coding debut from Chennai
+[Seasidedrum](https://www.instagram.com/ophelia.game/) will give us a visuals set with her shader magic
 
 [Pratyush](https://www.instagram.com/prtyshrmn)'s is going to bring us beats and bloops from the modular magic of VCV rack
 
