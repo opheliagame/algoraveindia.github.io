@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Algorave India"
-description:	       "Algorave India is an attempt by local artists to bring creative coding to the forefront and blur lines between artists and engineers #livecoding"
+description:	       "A collective of computational artists from India bringing creative coding to the forefront to blur lines between artists and engineers #livecoding"
 author:              "Abhinay Khoparzi"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
