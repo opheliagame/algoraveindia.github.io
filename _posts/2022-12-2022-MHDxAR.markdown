@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Algorave: Music Hack Day India 2019"
+date: "2022-12-10 18:00:00 +0530"
+image: posters/MHDxAR-10Dec2022.png
+---
+
+It’s been two years, and while we have had lots of fun playing virtual gigs, it’s time to bring it back to the real world.
+
+Presenting an IRL Algorave at Walkin Studios with a lineup featuring some old and some new.
+
+The event is organised in association with [ISMIR Conference making](http://ismir2022.ismir.net/) it a great chance to meet and collaborate for some fun hacks with the international music tech community.
+
+A big thanks to our sponsor [Beatoven](https://beatoven.ai) for supporting the event.
+Date - 10 Dec, 2022
