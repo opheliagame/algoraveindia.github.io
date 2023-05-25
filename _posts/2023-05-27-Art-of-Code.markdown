@@ -3,7 +3,7 @@ layout: post
 title: "Art of Code - Algorave"
 categories: events
 date: "2023-05-27 19:00:00 +0530"
-image: posters/art-of-code-27May2021.jpg
+image: posters/art-of-code-27May2023.jpg
 author: "Abhinay Khoparzi"
 ---
 Four years ago we brought you Bengaluru’s first Algorave. This weekend the 27th of May 2023, we join forces with [Tezos India](https://tezosindia.org.in) to celebrate our anniversary.

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Algorave: Music Hack Day India 2019"
+title: "ISMIR x Music Hack Day India x Algorave: 2022"
+categories: events
 date: "2022-12-10 18:00:00 +0530"
 image: posters/MHDxAR-10Dec2022.png
 ---
