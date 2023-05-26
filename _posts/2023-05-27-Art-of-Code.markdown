@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Art of Code - Algorave"
+title: "Art of Code - Algorave with Tezos India"
 categories: events
 date: "2023-05-25 19:00:00 +0530"
 image: posters/art-of-code-27May2023.jpg
@@ -13,14 +13,12 @@ Four years ago we brought you Bengaluru’s first Algorave. This weekend the 27t
 📅 - 27th May - 27th June
 ⏰ - 7PM 🔛
  
-Discover a world of limitless imagination as skilled artists showcase their unique creative visions 🎨
-
 [Khoparzi](http://khoparzi.com/) jiggly beats and bloops from TidalCycles and Hydra
 
 HemantSK with his legendary textures from Pure Data and Processing bring the noise in it's purest form
 
 [Cynk Collective](https://www.instagram.com/cynk_collective/) Cynk is a collective of artists from diverse contemporary art practices and share a common vision towards creating Audio Visual experiences
 
-[The ISRO](https://www.instagram.com/theisro/) Bengaluru's original The I.S.R.O is a collective dedicated to the proliferation of creative music & experiments in sound
+[The ISRO](https://www.instagram.com/theisro/) Bengaluru's original is a collective dedicated to the proliferation of creative music & experiments in sound
 
-[5 Volts](https://www.instagram.com/5volts/ Brings a large dose of modulars from Kolkata
+[5 Volts](https://www.instagram.com/5volts/) Brings a large dose of modulars from Kolkata with more than enough voltage to fire up every dancing shoe in your closet
