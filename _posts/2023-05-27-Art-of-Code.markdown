@@ -2,7 +2,7 @@
 layout: post
 title: "Art of Code - Algorave"
 categories: events
-date: "2023-05-27 19:00:00 +0530"
+date: "2023-05-25 19:00:00 +0530"
 image: posters/art-of-code-27May2023.jpg
 author: "Abhinay Khoparzi"
 ---
