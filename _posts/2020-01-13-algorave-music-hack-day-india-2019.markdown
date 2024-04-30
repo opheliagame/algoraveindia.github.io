@@ -2,6 +2,7 @@
 layout: post
 title: "Algorave: Music Hack Day India 2019"
 date: "2019-12-05 18:00:00 +0530"
+categories: events
 image-low: posters/Mumbai-Dec2019-low.jpg
 image: posters/Mumbai-Dec2019.gif
 ---

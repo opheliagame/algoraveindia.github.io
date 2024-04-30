@@ -2,6 +2,7 @@
 layout: post
 title: "Algorave | Cyberia Festival"
 date: "2019-12-01 18:00:00 +0530"
+categories: events
 image-low: posters/Pune-dec-2019-low.jpg
 image: posters/Pune-dec-2019.gif
 ---

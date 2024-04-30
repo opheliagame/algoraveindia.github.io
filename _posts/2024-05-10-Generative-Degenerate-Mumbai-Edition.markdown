@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Generate Degenerate: Mumbai Edition"
-categories: drafts
+title: "Generative Degenerate: Mumbai Edition"
+categories: events
 date: "2024-05-1 19:00:00 +0530"
 author: "Abhinay Khoparzi"
 ---
