@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Generative Degenerate: Mumbai Edition"
-categories: events
+categories: drafts
 date: "2024-04-30 19:00:00 +0530"
 author: "Abhinay Khoparzi"
 ---
@@ -13,14 +13,7 @@ Generative Degenerate is a month long tour of Algorave India across multiple cit
 
 ⏰ - 7:30PM 🔛
 
-📍 - [Harkat Studios](https://www.google.com/maps/place/Harkat+Studios/@19.13374,72.812419,15z/data=!4m6!3m5!1s0x3be7b617635d43db:0xa9524d81ee724251!8m2!3d19.1337399!4d72.8124185!16s%2Fg%2F11bbrhv1fd?hl=en-IN&entry=ttu)
-
-```Bungalow No. 17, JP Rd,
-Aram Nagar Part 2, Machlimar,
-Versova, Andheri West, 
-Mumbai, Maharashtra 400061
-```
-https://harkat.in/
+📍 - [Harkat Studios](https://harkat.in/) [Get Directions](https://www.google.com/maps/place/Harkat+Studios/@19.13374,72.812419,15z/data=!4m6!3m5!1s0x3be7b617635d43db:0xa9524d81ee724251!8m2!3d19.1337399!4d72.8124185!16s%2Fg%2F11bbrhv1fd?hl=en-IN&entry=ttu)
 
 [Myles](http://www.aaronmylespereira.com) will click his mouse and clack a keyboard to make AV things happen with Max/MSP and TouchDesigner.
 
