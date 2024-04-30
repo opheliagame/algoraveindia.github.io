@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Generative Degenerate: Mumbai Edition"
+image: posters/Generative-Degenerate-Mumbai-Edition-2024.png
 categories: drafts
 date: "2024-04-30 19:00:00 +0530"
 author: "Abhinay Khoparzi"
@@ -17,7 +18,7 @@ Generative Degenerate is a month long tour of Algorave India across multiple cit
 
 [Myles](http://www.aaronmylespereira.com) will click his mouse and clack a keyboard to make AV things happen with Max/MSP and TouchDesigner.
 
-[Ayrous](http://www.instagram.com/ayruos) returns to working with DIY code and electronics, performing an improvised set with a handheld AV synth of his own design, the N8IR.
+[Sourya Sen](http://www.instagram.com/ayruos) returns to working with DIY code and electronics, performing an improvised set with a handheld AV synth of his own design, the N8IR.
 
 [PhilterSoup](https://www.philtersoup.com/) Brings a large dose of hardware along with a prototype synth with more than enough voltage to fire up every dancing shoe in your closet.
 
@@ -35,9 +36,9 @@ Myles provides custom software solutions ranging from interactive art installati
 
 http://www.instagram.com/aaronmylespereira
 
-Sourya Sen, ia a Mumbai-based audiovisual artist and creative technologist, he navigates the realms of music, visuals, and technology with a distinctive process-oriented approach.
+Sourya Sen is a Mumbai-based audiovisual artist and creative technologist who navigates the realms of music, visuals, and technology with a distinctive process-oriented approach.
 
-His expansive portfolio encompasses both independent and collaborative music releases, audiovisual projects, installations, performance visuals, open-source projects, and a spectrum of music and audiovisual works
+His expansive portfolio encompasses both independent and collaborative music releases, audiovisual projects, installations, performance visuals, open-source projects, and a spectrum of music and audiovisual works. In a pivotal 2023, he released his debut album, In the Cities, was a OneBeat Virtual fellow and performed live at Magnetic Fields Festival.
 
 http://www.instagram.com/ayruos
 
