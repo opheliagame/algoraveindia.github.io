@@ -46,7 +46,9 @@ Spiralynk is the brainchild of Ankit Malik, an interdisciplinary artist leveragi
 
 https://www.instagram.com/spiralynk/
 
-Sanjay Das aka PhilterSoup is a Music Producer and Creative Technologist working in the domains of sound, visual and form. PhilterSoup creates interfaces for artistic expression across sonic and visual mediums. He conceptualises, designs and executes projects involving bespoke hardware and software solutions. PhilterSoup's work involves creating visceral experiences focussing on Interactivity and Immediacy.
+Sanjay Das aka philterSoup, is a Mumbai-based artist whose creative spectrum spans across roles as an artist, producer, music-technologist, and media composer.
+
+philterSoup’s various audio-visual explorations over the years have evolved into a distinctive tapestry of influences and collaborations, drawing acclaim from both international and Indian publications alike. In addition to his studio endeavours; including commissions for Netflix, Amazon Prime Video & Vice Media, Sanjay's live performances have left indelible impressions, including notable appearances at NMACC and Magnetic Fields Festival last year. Sanjay also works as a music technologist specialising in interface design, DSP and physical computing.
 
 https://www.instagram.com/philtersoupmusic/
 
