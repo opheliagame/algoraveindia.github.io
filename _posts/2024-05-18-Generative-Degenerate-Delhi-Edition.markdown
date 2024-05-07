@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Generative Degenerate: Delhi Edition"
+image: posters/Generative-Degenerate-Delhi-Edition-2024.png
 categories: events
 date: "2024-05-08 19:00:00 +0530"
 author: "Abhinay Khoparzi"
