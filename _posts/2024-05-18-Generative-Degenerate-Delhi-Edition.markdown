@@ -42,4 +42,4 @@ Terms & Conditions:
 
 3. No refund will be made in case of cancellation of ticket/registration of or failure to attend any program. Exception: In case of workshops, 50% of the registration amount will be refunded if informed at least 5 days prior to the programmed date.
       
-You agree to share information entered on this page with WIP LABS (owner of this page) and Razorpay, adhering to applicable laws.
+You agree to share information entered on this page with WIP LABS and Razorpay, adhering to applicable laws.
