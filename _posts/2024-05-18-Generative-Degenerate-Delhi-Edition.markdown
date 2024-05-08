@@ -3,7 +3,7 @@ layout: post
 title: "Generative Degenerate: Delhi Edition"
 image: posters/Generative-Degenerate-Delhi-Edition-2024.png
 categories: events
-date: "2024-05-08 19:00:00 +0530"
+date: "2024-05-08 00:00:00 +0530"
 author: "Abhinay Khoparzi"
 ---
 Algorave – a word coined to give an identity to events that use open source code and hardware as an instrument/paintbrush to perform live in front of a diverse, inclusive and accepting audience. Algoraves are centred around creative coding tools where programming code is written and manipulated live in full view of the audience to produce sounds and visions to bend minds and jiggle behinds.
