@@ -35,11 +35,14 @@ Generative Degenerate is a month long tour of Algorave India across multiple cit
 [Khoparzi](http://khoparzi.com/) will bring in his usual improvised generative visuals tickled by chaotic algorithms meddling with signals and systems. Later the party will degenrate to livecoded footwork and bass music powered by TidalCycles.
 
 [RSVP For Location](https://lu.ma/kmyc4sxp)
+
 [YouTube](http://youtube.com/eulerroom)
 
 Contact Us:
  [Algorave India](https://instagram.com/algorave_india)
+ 
  7704892000
+
 Terms & Conditions:
 1. Entry is limited and based on wether we can accomodate you in the space.
 
