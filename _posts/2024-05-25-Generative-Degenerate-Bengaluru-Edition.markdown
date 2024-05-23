@@ -2,8 +2,8 @@
 layout: post
 title: "Generative Degenerate: Bengaluru Edition"
 image: posters/Generative-Degenerate-Bengaluru-Edition-2024.png
-categories: drafts
-date: "2024-05-23 17:00:00 +0530"
+categories: events
+date: "2024-05-23 14:30:00 +0530"
 author: "Abhinay Khoparzi"
 ---
 Algorave – a word coined to give an identity to events that use open source code and hardware as an instrument/paintbrush to perform live in front of a diverse, inclusive and accepting audience. Algoraves are centred around creative coding tools where programming code is written and manipulated live in full view of the audience to produce sounds and visions to bend minds and jiggle behinds.
@@ -24,15 +24,17 @@ Generative Degenerate is a month long tour of Algorave India across multiple cit
 
 [MachineBlade](https://instagram.com/georgepanicker_/) Will be experimenting with glitching breakbeats in Chuck + touchdesigner, exploring machine learning tools in Chuck's new AI library.
 
+[Screenseva](https://instagram.com/screenseva/) Improvised live sound performance using prebuilt modular patches on VCV Rack
+
 [Roguentropy](https://www.instagram.com/roguentropy/) Will give us a sonic pi set paired with a flute.
 
-Pratyush will return to the Algorave India lineup with Heerdyes to give us a duo performance with a synthesizer virtual machine combined with vcvrack.
+[prtysh](https://instagram.com/prtyshrmn/) will return to the Algorave India lineup with Heerdyes to give us a duo performance with a synthesizer virtual machine combined with vcvrack.
 
-xyzzy Will give us a demo of a live coding tool of his own built based on tracker notation
+[xyzzy](https://xyzzyapps.link) Will give us a demo of a live coding tool of his own based on tracker notation
 
 [Khoparzi](http://khoparzi.com/) will bring in his usual improvised generative visuals tickled by chaotic algorithms meddling with signals and systems. Later the party will degenrate to livecoded footwork and bass music powered by TidalCycles.
 
-[RSVP For Location](https://pages.razorpay.com/pl_O7YoU2g8q4NbWB/view)
+[RSVP For Location](https://lu.ma/kmyc4sxp)
 [YouTube](http://youtube.com/eulerroom)
 
 Contact Us:
