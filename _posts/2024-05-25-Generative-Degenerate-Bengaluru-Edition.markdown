@@ -12,21 +12,21 @@ Generative Degenerate is a month long tour of Algorave India across multiple cit
 
 📅 - 25th May
 
-⏰ - 4:30PM - 6:30 PM Live stream - 6:30 PM onwards only live music
+⏰ - 4:30PM - 6:30 PM Live stream - 6:30 PM onwards live music mayhem
 
 📍 - Online Stream and Kaushik's Place
 
-[ophelia.game](https:/instagram.com/ophelia.game) + [beatnyk](https://instagram.com/beatnyk) In an improvised performance with Punctual Ophelia game will explore lines, feedback and audio reactivity. All this While beatnyk will try his best not to crash the remote livecoding system the duo will play on, creating a noisy mayhem in an attempt to code earworming rhythms.
+[ophelia.game](https:/instagram.com/ophelia.game) + [beatnyk](https://instagram.com/beatnyk) will meet in an improvised performance where Punctual Ophelia game will explore lines, feedback and audio reactivity while beatnyk will try his best not to crash the remote livecoding system the duo will play on, creating a noisy mayhem in an attempt to code earworming rhythms.
 
 [eardrummerman](https://instagram.com/eardrummerman/) Will turn knobs inside a latent space to give us a live improv with AI models.
 
 [evarogla](https://instagram.com/evarogla/) will interface Sonic Pi with a live violin performance. A Human-computer Jugalbandi with live visuals provided by Suraj Barthy working with Hydra and cinema4D.
 
-[MachineBlade](https://instagram.com/georgepanicker_/) Wil be experimenting with glitching breakbeats in Chuck + touchdesigner, exploring machine learning tools in Chuck's new AI library.
+[MachineBlade](https://instagram.com/georgepanicker_/) Will be experimenting with glitching breakbeats in Chuck + touchdesigner, exploring machine learning tools in Chuck's new AI library.
 
 [Roguentropy](https://www.instagram.com/roguentropy/) Will give us a sonic pi set paired with a flute.
 
-Heerdyes + Pratyush will give us a duo performance with a synthesizer virtual machine combined with vcvrack.
+Pratyush will return to the Algorave India lineup with Heerdyes to give us a duo performance with a synthesizer virtual machine combined with vcvrack.
 
 xyzzy Will give us a demo of a live coding tool of his own built based on tracker notation
 
