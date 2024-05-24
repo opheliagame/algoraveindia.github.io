@@ -16,7 +16,7 @@ Generative Degenerate is a month long tour of Algorave India across multiple cit
 
 📍 - Online Stream and Kaushik's Place
 
-[ophelia.game](https:/instagram.com/ophelia.game) + [beatnyk](https://instagram.com/beatnyk) will meet in an improvised performance where Punctual Ophelia game will explore lines, feedback and audio reactivity while beatnyk will try his best not to crash the remote livecoding system the duo will play on, creating a noisy mayhem in an attempt to code earworming rhythms.
+[ophelia.game](https:/instagram.com/ophelia.game) + [beatnyk](https://instagram.com/beatnyk) will meet in an improvised performance where Ophelia game will explore lines, feedback and audio reactivity in Punctual while beatnyk will try his best not to crash the remote livecoding system the duo will play on, creating a noisy mayhem in an attempt to code earworming rhythms.
 
 [eardrummerman](https://instagram.com/eardrummerman/) Will turn knobs inside a latent space to give us a live improv with AI models.
 
@@ -36,7 +36,7 @@ Generative Degenerate is a month long tour of Algorave India across multiple cit
 
 [RSVP For Location](https://lu.ma/kmyc4sxp)
 
-[YouTube](http://youtube.com/eulerroom)
+[LIVESTREAM](https://live.eulerroom.com/)
 
 Contact Us:
  [Algorave India](https://instagram.com/algorave_india)
