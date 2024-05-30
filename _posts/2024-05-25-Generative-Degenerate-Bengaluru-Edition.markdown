@@ -40,8 +40,6 @@ Generative Degenerate is a month long tour of Algorave India across multiple cit
 
 Contact Us:
  [Algorave India](https://instagram.com/algorave_india)
- 
- 7704892000
 
 Terms & Conditions:
 1. Entry is limited and based on wether we can accomodate you in the space.
