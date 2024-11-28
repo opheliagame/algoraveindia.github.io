@@ -8,7 +8,9 @@ author: "Abhinay Khoparzi"
 ---
 Algorave – a word coined to give an identity to events that use open source code and hardware as an instrument/paintbrush to perform live in front of a diverse, inclusive and accepting audience. Algoraves are centred around creative coding tools where programming code is written and manipulated live in full view of the audience to produce sounds and visions to bend minds and jiggle behinds.
 
-Generative Degenerate is a month long tour of Algorave India across multiple cities to celebrate the birth of the collective six years ago.
+AltFest by BLR Hubba and WIP Labs (Nov 30 - Dec 15) features over 500 events in 10 categories across 40+ venues.
+
+BLR Hubba has something for everyone and a venue near you. Most Homegrown and Enabled events are free to attend. Explore them and more on this website. See you at BLR Hubba.
 
 📅 - 2nd Dec
 
