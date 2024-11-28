@@ -22,6 +22,8 @@ AltFest by BLR Hubba and WIP Labs (Nov 30 - Dec 15) features over 500 events in 
 
 [Roguentropy](https://www.instagram.com/roguentropy/) Will give us a sonic pi set paired with a flute.
 
+[Koel](http://instagram.com/koel__sen/) Sen will break down self shot, archival and found footage recreating her cinematic materials into generative art using pixel layers, sound movements and vector graphics
+
 [Sourya Sen](http://www.instagram.com/ayruos) returns to working with DIY code and electronics, performing an improvised set with a handheld AV synth of his own design, the N8IR.
 
 [Khoparzi](http://khoparzi.com/) will bring in his usual improvised generative visuals tickled by chaotic algorithms meddling with signals and systems. Later the party will degenrate to livecoded footwork and bass music powered by TidalCycles.
