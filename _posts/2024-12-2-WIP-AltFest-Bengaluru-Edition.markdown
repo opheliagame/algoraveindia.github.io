@@ -8,9 +8,7 @@ author: "Abhinay Khoparzi"
 ---
 Algorave – a word coined to give an identity to events that use open source code and hardware as an instrument/paintbrush to perform live in front of a diverse, inclusive and accepting audience. Algoraves are centred around creative coding tools where programming code is written and manipulated live in full view of the audience to produce sounds and visions to bend minds and jiggle behinds.
 
-AltFest by BLR Hubba and WIP Labs (Nov 30 - Dec 15) features over 500 events in 10 categories across 40+ venues.
-
-BLR Hubba has something for everyone and a venue near you. Most Homegrown and Enabled events are free to attend. Explore them and more on this website. See you at BLR Hubba.
+AltFest by BLR Hubba and WIP Labs (Nov 30 - Dec 15) features over 500 events in 10 categories across 40+ venues. BLR Hubba has something for everyone and a venue near you. Most Homegrown and Enabled events are free to attend. Explore them and more on [this website](https://blrhubba.in/).
 
 📅 - 2nd Dec
 
@@ -45,4 +43,4 @@ Terms & Conditions:
 
 2. WIP Labs reserves the right to refuse admission/reject a visitor appearing to be intoxicated, under the influence of drugs or causing any kind of nuisance or otherwise behaving dangerously or inappropriately.
       
-You agree to share information entered on this page with Algorave India and Luma, adhering to applicable laws.
+You agree to share information entered on this page with Algorave India and Bangalore Hubba, adhering to applicable laws.
