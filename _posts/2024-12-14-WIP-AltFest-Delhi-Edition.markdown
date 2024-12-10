@@ -3,18 +3,20 @@ layout: post
 title: "WIP AltFest Algorave: Delhi Edition"
 image: posters/WIP-AltFest-Delhi-Edition-2024.png
 categories: events
-date: "2024-11-10 14:30:00 +0530"
+date: "2024-12-10 14:30:00 +0530"
 author: "Abhinay Khoparzi"
 ---
 Algorave – a word coined to give an identity to events that use open source code and hardware as an instrument/paintbrush to perform live in front of a diverse, inclusive and accepting audience. Algoraves are centred around creative coding tools where programming code is written and manipulated live in full view of the audience to produce sounds and visions to bend minds and jiggle behinds.
 
 AltFest by WIP Labs (Dec 7 - Dec 15) The W.I.P alt FEST, conceived as a one-of-a-kind twin festival spanning two cities, aims to be a landmark annual event of experimental, alternative, and critical art. Explore them and more on [this website](https://wipaltfest.wipcollective.in).
 
-📅 - 14nd Dec
+📅 - 14th Dec
 
 ⏰ - 9:00 PM onwards live music mayhem
 
 📍 - [Depot 48](https://maps.app.goo.gl/eYBqDee21Pr3LeLWA)
+
+[Shiv Ahuja](https://www.instagram.com/shivahuja) pokes at his modular to bring sounds from a very tired and foggy city.
 
 [Ophelia Game](https://www.instagram.com/ophelia.game/) descends with her shader magic in Delhi for some mind bending visuals
 
@@ -23,8 +25,6 @@ AltFest by WIP Labs (Dec 7 - Dec 15) The W.I.P alt FEST, conceived as a one-of-a
 [beatnyk](https://instagram.com/beatnyk) beatnyk's work is a constant battle to not crash his livecoding system while creating noisy mayhem in an attempt to code earworming rhythms.
 
 [_rnd](https://www.instagram.com/rnd.exe) is going to be trying his hand at livecoding in punctual. He doesn't know anything about how to make music but will try to make weird and funky visuals.
-
-[Shiv Ahuja](https://www.instagram.com/shivahuja) pokes at his modular with to bring sounds from a very tired and foggy city.
 
 [Register for entry](https://wip-labs.mojo.page/wip-alt-fest-algorave)
 
