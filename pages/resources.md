@@ -16,13 +16,3 @@ author: Abhinay Khoparzi
 
 And if you want to just see what else is out there in the world of livecoding
 [A big list of livecoding tools](https://github.com/lvm/awesome-livecoding)
-
-{% for post in site.categories.resources %}
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <!-- <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}> -->
-      <!-- <h2><span> -->
-        {{ post.title }}
-      <!-- </span></h2> -->
-    <!-- </div> -->
-  </a>
-{% endfor %}
