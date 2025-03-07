@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" id="reset-this-root">
+  {% include head.html %} {% include threejs.html %}
+  <body>
+    <div class="main-container">
+      <!-- Header -->
+      <header>
+        <svg
+          preserveAspectRatio="none"
+          viewBox="0 0 900 1600"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            id="tilted-line"
+            d="M 0 1600 L 900 0 L 0 0 L 0 1600"
+            stroke="none"
+            stroke-width="4"
+            fill="black"
+          />
+
+          <path
+            id="tilted-line"
+            d="M 0 1600 L 900 0"
+            stroke="white"
+            stroke-width="4"
+            fill="none"
+          />
+
+          <a href="/">
+            <text dy="-20px">
+              <textPath href="#tilted-line" startOffset="550" fill="white">
+                ALGORAVE INDIA
+              </textPath>
+            </text>
+          </a>
+        </svg>
+
+        <div class="nav">
+          <h1 class="site-title">
+            <a href="{{ site.github.url }}/">{{ site.title }}</a>
+
+            <!-- <img src="/assets/img/logo.png" /> -->
+          </h1>
+
+          <ul class="nav-menu">
+            {% for item in site.data.settings.menu %}
+            <a
+              href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}"
+              class="menu-link"
+              >{{ item.name }}</a
+            >
+            {% endfor %} {% for item in site.data.settings.social %}
+            <a href="{{ item.link }}" class="menu-link" target="_blank"
+              ><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i
+            ></a>
+            {% endfor %}
+          </ul>
+        </div>
+      </header>
+
+      <!-- Posts -->
+      <div class="posts-container">
+        <div class="posts">
+          {% for post in paginator.posts %}
+          <article>
+            <a href="{{ site.github.url }}{{ post.url }}">
+              <div class="title-words">
+                <p>{{ post.title }}</p>
+              </div>
+            </a>
+          </article>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
